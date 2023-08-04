@@ -12,9 +12,9 @@
 
 
 ### About me... 
-I'm a **AI MSc. Student🎓**. 
+I'm an **AI MSc. Student🎓**. 
 
-I'm an **Researcher 💻** 
+I'm a **Researcher 💻** 
 
 Interested in [Deep Learning](), [Machine Learning](), [Algorithms-Mathematics](), [Software Enginnering](), [Accelareted Computing](), [Parallel Systems](),  [RF&Electronics](). 
 
